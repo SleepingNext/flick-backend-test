@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="503f4927-871f-4472-88dc-7ea3b1ee817a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1h0aiyw8XU3zp68b83Q23LoorlT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wedocation-be" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/model" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="503f4927-871f-4472-88dc-7ea3b1ee817a" name="Default Changelist" comment="" />
+      <created>1599150594837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599150594837</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="755" y="376" width="400" height="333" key="#Go_Modules" timestamp="1599154473984">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="755" y="376" width="400" height="333" key="#Go_Modules/0.0.1920.1080@0.0.1920.1080" timestamp="1599154473984" />
+    <state x="263" y="393" width="1384" height="300" key="#SQL_Dialects" timestamp="1599171497064">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="263" y="393" width="1384" height="300" key="#SQL_Dialects/0.0.1920.1080@0.0.1920.1080" timestamp="1599171497064" />
+    <state x="555" y="201" width="800" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599173591878">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="201" width="800" height="683" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599173591878" />
+    <state x="842" y="412" width="216" height="267" key="EnvironmentVariablesDialog" timestamp="1599154472244">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="842" y="412" width="216" height="267" key="EnvironmentVariablesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599154472244" />
+    <state x="743" y="298" width="424" height="490" key="FileChooserDialogImpl" timestamp="1599164099162">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="298" width="424" height="490" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1599164099162" />
+    <state width="334" height="514" key="HiddenNamespacesPopup" timestamp="1599173611547">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="334" height="514" key="HiddenNamespacesPopup/0.0.1920.1080@0.0.1920.1080" timestamp="1599173611547" />
+    <state x="841" y="429" width="352" height="233" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog" timestamp="1599179283574">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="841" y="429" width="352" height="233" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599179283574" />
+    <state x="713" y="357" width="484" height="369" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1599190708491">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="713" y="357" width="484" height="369" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599190708491" />
+    <state x="212" y="131" width="639" height="874" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1599190956298">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="212" y="131" width="639" height="874" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1599190956298" />
+    <state x="651" y="279" width="618" height="586" key="find.popup" timestamp="1599182010037">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="651" y="279" width="618" height="586" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1599182010037" />
+  </component>
+</project>
